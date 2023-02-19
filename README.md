@@ -11,10 +11,11 @@ V2 = Temperature
 V3 = Humidity  
   
 As for the parts involved all of them I sourced from amazon for cheap. Atleast in my opinion it is a pretty inexpensive project and it gets you far more information then a store bought monitor. Parts list is...  
+  
 "Arduino with WIFI built in for the brains of the project"  
 x1 Arduino ESP8266 NodeMCU             https://a.co/d/1botgaY   //Amazon Canada  
   
-"Note you will not be running thr current through this board so it is important to remove the onboard 100 ohm resistor"              
+"Note you will not be running the current through this board so it is important to remove the onboard 100 ohm resistor"              
 x1 INA226 Current shunt board          https://a.co/d/3lF1AP3   //Amazon Canada  
   
 "This charges the batteries the project uses when the car is running"  
