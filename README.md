@@ -2,7 +2,7 @@
 
 I created this project to keep an eye on the 12 volt battery of my electric car. It connects to two different WIFI networks and uses the app Blynk to keep an eye on different information about the battery.
 
-Use of this code requires an APP created on https://blynk.io/
+Use of this code requires an APP created on https://blynk.io/  
 Blynk is free with minor use which this program will fall under. There is some to learn with Blynk so I will let you putter around with it and learn it yourself for now until I can get enough time to make a tutorial. But trust me if I can figure it out so can you.
 The Virtual pins you will be interested in for the template you will create with Blynk are as follows...  
 V0 = Voltage  
